@@ -3,10 +3,10 @@
 ### Skills for this project (please check off the skills the student covered during this project):
 
 **HTML**
- 1. [ ] html tags
- 2. [ ] head tags
- 3. [ ] body tags
- 4. [ ] h & p tags
+ 1. [x] html tags
+ 2. [ x] head tags
+ 3. [x ] body tags
+ 4. [x ] h & p tags
  5. [ ] indentation
 
 **CSS**
