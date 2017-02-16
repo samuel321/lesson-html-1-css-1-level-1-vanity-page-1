@@ -23,5 +23,5 @@
 
 ### Project details
   1. Project name: 
-  2. Project summary:
+  2. Project summary: This project maps to codio project coutry
   3. Project coordinator: 
